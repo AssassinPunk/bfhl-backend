@@ -100,9 +100,9 @@ function processData(data) {
   }
 
   return {
-    user_id: "yourname_ddmmyyyy",
-    email_id: "your@email.com",
-    college_roll_number: "YOURROLLNO",
+    user_id: "AlokMaiti_21032004",
+    email_id: "am9621@srmist.edu.in",
+    college_roll_number: "RA2311031010129",
     hierarchies,
     invalid_entries: invalidEntries,
     duplicate_edges: duplicateEdges,
